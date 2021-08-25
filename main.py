@@ -12,7 +12,7 @@ basarililong = 0
 basarisizlong = 0
 basarilishort = 0
 basarisizshort = 0
-long1= "l"
+
 
 for y in range (1, inputworksheet.nrows):
     longshortbakim = inputworksheet.cell_value(y,2)
